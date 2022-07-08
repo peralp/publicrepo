@@ -10,7 +10,6 @@ Plugin 'vim-airline/vim-airline'
 Plugin 'vim-syntastic/syntastic'
 Plugin 'nvie/vim-flake8'
 Plugin 'vim-airline/vim-airline-themes'
-Plugin 'crusoexia/vim-monokai'
 Plugin 'tpope/vim-fugitive'
 Plugin 'vim-scripts/indentpython.vim'
 Plugin 'godlygeek/tabular'
@@ -41,4 +40,3 @@ set showmatch
 set hlsearch
 set ic
 set cursorline
-colo monokai
