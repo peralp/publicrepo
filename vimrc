@@ -13,9 +13,7 @@ Plugin 'vim-airline/vim-airline-themes'
 Plugin 'tpope/vim-fugitive'
 Plugin 'vim-scripts/indentpython.vim'
 Plugin 'godlygeek/tabular'
-Plugin 'vimwiki/vimwiki'
 Plugin 'plasticboy/vim-markdown'
-"Plugin 'ycm/youcompleteme'
 " autocmd vimenter * NERDTree
 "
 filetype plugin indent on
